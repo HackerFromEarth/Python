@@ -1,0 +1,1 @@
+A beginner Python project that implements a simple user settings manager. The program allows users to add, update, delete, and view configuration settings using Python dictionaries, functions, conditionals, loops, and string manipulation.
