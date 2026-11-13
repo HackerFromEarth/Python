@@ -1,1 +1,1 @@
-Hi, I acknowledge the importance of languages such as python for development of security tools. I'm no wizard but here's some of the work I have done to give myself at least a small foundation of python, thanks for stopping by!
+Hi, I'm no wizard but here's some of the work I have done to give myself a foundation in python, thanks for stopping by.
